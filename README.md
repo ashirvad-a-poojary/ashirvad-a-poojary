@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Ashirvad A Poojary</h2>
-
-###
-
-
+<h2 align="left">Hi 👋! <br>My name is Ashirvad A Poojary<br>I am pursuing my engineering in Robotics and AI</h2>
 
 ###
 
@@ -15,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
@@ -31,5 +27,3 @@
 </div>
 
 ###
-
-
